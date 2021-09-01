@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LoneWolf-Koz
+- 👋 Hi, I’m Koz
 - 👀 I’m interested in music, outdoor activities, traveling and cooking
 - 🌱 I’m currently learning C#, Docker
 - 💞️ I’m looking to collaborate on anything interested
